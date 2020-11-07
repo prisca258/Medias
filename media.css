@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'DM Sans', sans-serif;  
+    background-image: url("assets/img/rayon.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+h1{ font-size: 6em;
+    text-align: center;
+    color: white;
+}
+h2{
+    color: white;
+    font-size: 3em;
+    text-decoration: underline;
+    padding-left: 50px;
+}
+p{
+    font-size: 2em;
+    color: white;
+    padding-left: 50px;
+}
+audio{
+    border: orangered 13x solid;
+    width: 350px;
+    height: 200px;
+    background-image: url("assets/img/033.jpg");
+    padding: 40px;
+    margin-left: 50px;
+}
+.centre{
+    margin-left: 300px;
+}
+.marge{
+    margin-left: 70px;
+}
+.centre1{
+    margin-left: 500px;
+}
